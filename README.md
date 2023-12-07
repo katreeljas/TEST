@@ -4,10 +4,10 @@
 
 ## SUMMARY
 
-| Company name | [Company](https://website.link) |
+| TEST Company | [Company](https://website.link) |
 | :--- | :--- |
-| Development Team Lead Name | [First name, Surname](https://profile.link) |
-| Development Team Lead e-mail | [Team Member 1](https://profile.link) |
+| Development Team Lead Name | Mina, Olen (https://profile.link) |
+| Development Team Lead e-mail | mina.olen@midagi.ee (https://profile.link) |
 | Objectives of the Demonstration Project |  |
 
 # Each project has an alternative:
@@ -21,10 +21,10 @@ EESMÄRGID
 
 ## Activities and results of demonstration project
 *Challenge addressed (i.e. whether and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
--  *a)*
+-  *a)tegevus 1, tageveus 2
 
 *Data sources (which data was used for the technological solution)*
--  *a)*
+-  *a)* data 1, data 2
 
 *Description and justifictaion of used AI technology*
 -  *a)*
@@ -33,7 +33,8 @@ EESMÄRGID
 -  *a)*
 
 *Technical architecture (presented graphically, where can also be seen how the technical solution integrates with the existing system)*
--  *a)*
+-  ![image](https://github.com/katreeljas/TEST/assets/153168549/d04813c3-4b74-449d-8ce6-dc118deacc92)
+
 
 *Potential areas of use of technical solution*
 -  *a)*
