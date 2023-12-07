@@ -1,8 +1,8 @@
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with it's actual title.*
 
-# [Demonstration Project title]
+# TEST projekt
 
-## Summary
+## SUMMARY
 
 | Company name | [Company](https://website.link) |
 | :--- | :--- |
@@ -17,7 +17,7 @@
 - *c) a custom agreement with the AIRE team*
 
 ## Objectives of the Demonstration Project
-*Please provide your objectives here.*
+EESMÄRGID
 
 ## Activities and results of demonstration project
 *Challenge addressed (i.e. whether and how the initial challenge was changed during the project, for which investment the demonstration project was provided)*
